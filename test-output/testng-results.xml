@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-23T11:36:58 EET" name="Default suite" finished-at="2023-10-23T11:37:03 EET" duration-ms="4643">
+    <groups>
+    </groups>
+    <test started-at="2023-10-23T11:36:58 EET" name="Default test" finished-at="2023-10-23T11:37:03 EET" duration-ms="4643">
+      <class name="magentoLab.MagntoClass">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:magentoLab.MagntoClass@75e01201]" started-at="2023-10-23T11:36:58 EET" name="mySetup" finished-at="2023-10-23T11:37:02 EET" duration-ms="3590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="myFirstTest()[pri:0, instance:magentoLab.MagntoClass@75e01201]" started-at="2023-10-23T11:37:02 EET" name="myFirstTest" finished-at="2023-10-23T11:37:02 EET" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+        <test-method signature="myFirstTest()[pri:0, instance:magentoLab.MagntoClass@75e01201]" started-at="2023-10-23T11:37:02 EET" name="myFirstTest" finished-at="2023-10-23T11:37:03 EET" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+        <test-method signature="myFirstTest()[pri:0, instance:magentoLab.MagntoClass@75e01201]" started-at="2023-10-23T11:37:03 EET" name="myFirstTest" finished-at="2023-10-23T11:37:03 EET" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+        <test-method is-config="true" signature="myPostTest()[pri:0, instance:magentoLab.MagntoClass@75e01201]" started-at="2023-10-23T11:37:03 EET" name="myPostTest" finished-at="2023-10-23T11:37:03 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPostTest -->
+      </class> <!-- magentoLab.MagntoClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
